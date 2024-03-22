@@ -13,7 +13,7 @@ which was accepted by [Medical Image Analysis](https://www.sciencedirect.com/jou
 
 ------
 ## Acknowledgement
-Part of the code is modified from [SiamFC-PyTorch](https://github.com/huanglianghua/siamfc-pytorch) and [SiamTrackers](https://github.com/HonglinChu/SiamTrackers).
+Part of the code is modified from [DeepTag](https://github.com/DeepTag/cardiac_tagging_motion_estimation), [SiamFC-PyTorch](https://github.com/huanglianghua/siamfc-pytorch) and [SiamTrackers](https://github.com/HonglinChu/SiamTrackers).
 Baseline models are from [SiamTrackers](https://github.com/HonglinChu/SiamTrackers), [KCF](https://github.com/scott89/KCF), [LCT](https://github.com/chaoma99/lct-tracker).
 Thanks a lot for the great work!
 
